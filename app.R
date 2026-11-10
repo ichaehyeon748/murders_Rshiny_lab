@@ -268,4 +268,4 @@ shinyApp(ui, server)
 
 # Posit Cloud Connect
 # install.packages("rsconnect")
-rsconnect::writeManifest()
+# rsconnect::writeManifest()
